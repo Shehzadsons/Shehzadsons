@@ -1,4 +1,4 @@
-![load](https://github.com/Shehzadsons/Shahzad/blob/main/1.png)
+![load]()
 <h1 align="center">Hi 👋, I'm Shahzad</h1>
 <h3 align="center">A passionate Web App Developer</h3>
 
